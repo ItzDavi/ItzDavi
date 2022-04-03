@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Mobile App & Gaming Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzdavi" alt="itzdavi" /></a> </p>
-
 - 🔭 I’m currently working on [my education](https://www.its-ictpiemonte.it/)
 
 - 🌱 I’m currently learning **Android, iOS, Frontend and Backend**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzdavi&show_icons=true&locale=en" alt="itzdavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzdavi&" alt="itzdavi" /></p>
-
