@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ItzDavi](https://github.com/ItzDavi)
 
 - 💬 Ask me about **Discord.js**
-- 
+
 <p align="left">
 </p>
 
