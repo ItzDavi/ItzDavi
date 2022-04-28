@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my education](https://www.its-ictpiemonte.it/)
 
-- 🌱 I’m currently learning **Android, iOS, Frontend and Backend**
+- 🌱 I’m currently learning **Mobile & Gaming Development**
 
 - 👯 I’m looking to collaborate on **JS, Kotlin and Swift**
 
