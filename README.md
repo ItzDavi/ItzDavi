@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">Mobile App & Gaming Developer</h3>
 
-- 🔭 I’m currently working on [my education](https://www.its-ictpiemonte.it/)
+- 🔭 I’m currently working on [my education](https://www.its-ictpiemonte.it/corsi/mobile-app-e-gaming-developer/)
 
 - 🌱 I’m currently learning **Mobile & Gaming Development**
 
