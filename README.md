@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mobile & Gaming Development**
 
-- 👯 I’m looking to collaborate on **JS, Kotlin and Swift**
+- 👯 I’m looking to collaborate on **Kotlin, Flutter and JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItzDavi](https://github.com/ItzDavi)
 
