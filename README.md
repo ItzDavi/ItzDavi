@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord.js**
 
-- 💬 Instagram **<a href="https://www.instagram.com/davidepuntomolo/"></a>**
+- 📨 **<a href="https://www.instagram.com/davidepuntomolo/">Instagram</a>**
 
 <p align="left">
 </p>
