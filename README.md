@@ -4,7 +4,7 @@
 </br>
 <div align="center">
 🔭 <a href="https://www.its-ictpiemonte.it/corsi/mobile-app-e-gaming-developer/">My education</a></br></br>
-🚀 Starting as a freelancer in september 2023
+🚀 Starting as a freelancer in september 2023</br></br>
 🌱 I’m a Junior Mobile App & Gaming Developer</br></br>
 👯 Android Lover, I work primarly with Kotlin, Flutter and JS</br></br>
 📨 Want more info ? <a href="https://it.linkedin.com/in/davide-molo-4ba9141b8">LinkedIn</a></br></br>
