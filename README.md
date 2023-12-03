@@ -5,7 +5,7 @@
 <div align="center">
 🔭 <a href="https://www.its-ictpiemonte.it/corsi/mobile-app-e-gaming-developer/">My education</a></br></br>
 🚀 Freelancer (open to work) </br></br>
-🌱 I’m a Junior Mobile App & Gaming Developer</br></br>
+🌱 I’m a Junior Android & Gaming Developer</br></br>
 👯 Android Lover, I work primarly with Kotlin, Flutter, JS and C#</br></br>
 📨 Want more info ? <a href="https://it.linkedin.com/in/davide-molo-4ba9141b8">LinkedIn</a></br></br>
 </div>
