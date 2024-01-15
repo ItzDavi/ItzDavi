@@ -7,7 +7,6 @@
 🚀 Freelancer (open to work) </br></br>
 🌱 I’m a Junior Android & Gaming Developer</br></br>
 👯 Android Lover, I work primarly with Kotlin, Flutter, JS and C#</br></br>
-📨 Want more info ? <a href="https://it.linkedin.com/in/davide-molo-4ba9141b8">LinkedIn</a></br></br>
 </div>
 </br>
 
