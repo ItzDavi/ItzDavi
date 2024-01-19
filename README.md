@@ -14,7 +14,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,js,ts,godot,unity,react,dotnet,cs,cpp,nodejs,nestjs,html,css,jquery,php,postman,gradle,maven,heroku,firebase,gcp,md,git,github,stackoverflow,androidstudio,idea,vscode,visualstudio,atom,materialui,figma,xd,postgres,mongodb,mysql,sqlite,bots,arduino,discord,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,js,ts,godot,unity,react,dotnet,cs,cpp,nodejs,nestjs,html,css,jquery,php,postman,gradle,maven,heroku,firebase,gcp,md,git,github,stackoverflow,androidstudio,idea,vscode,visualstudio,atom,materialui,figma,xd,postgres,mongodb,mysql,sqlite,arduino,discord,bots"/>
   </a>
 </p>
 </br>
+
+<h3 align="center">What I love</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,js,godot,react,cs,gradle,firebase,gcp,git,github,idea,vscode,materialui,figma,mongodb,bots,arduino,discord,stackoverflow"/>
+  </a>
+</p>
