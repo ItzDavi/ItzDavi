@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,js,godot,unity,react,cs,cpp,nodejs,nestjs,html,css,php,postman,gradle,heroku,firebase,gcp,git,github,stackoverflow,androidstudio,idea,vscode,visualstudio,atom,figma,xd,mongodb,mysql,sqlite,arduino,discord"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,js,ts,godot,unity,react,dotnet,cs,cpp,nodejs,nestjs,html,css,jquery,php,postman,gradle,maven,heroku,firebase,gcp,md,git,github,stackoverflow,androidstudio,idea,vscode,visualstudio,atom,materialui,figma,xd,postgres,mongodb,mysql,sqlite,bots,arduino,discord,stackoverflow"/>
   </a>
 </p>
 </br>
