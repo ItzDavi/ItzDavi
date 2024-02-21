@@ -25,7 +25,7 @@
 
 <h3 align="">GitHub Trophies 🏆</h3>
 <p align="">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItzDavi&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ItzDavi&theme=onedark&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 <br>
 <sub><sup>Writing spaghetti code since 2014 💖</sup></sub>
