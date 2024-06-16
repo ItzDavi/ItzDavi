@@ -28,6 +28,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ItzDavi&theme=onedark&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 <br>
-![](https://komarev.com/ghpvc/?username=ItzDavi&abbreviated=true&color=red)
-<br>
 <sub><sup>Writing spaghetti code since 2014 💖</sup></sub>
