@@ -28,4 +28,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ItzDavi&theme=onedark&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 <br>
+
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzDavi.png" alt="THM badge" />
+</p>
+<br>
+
 <sub><sup>Writing spaghetti code since 2014 💖</sup></sub>
