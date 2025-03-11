@@ -1,12 +1,6 @@
 <h1 align="">Hi 👋, I'm Davide</h1>
 <h3 align="">Android & Gaming Developer</h3>
 
-<div align="">
-🔭 <a href="https://www.its-ictpiemonte.it/corsi/mobile-app-e-gaming-developer/">My education</a></br>
-🚀 Open to work and open source projects</br>
-👯 Android lover, and I work primarly with Kotlin, Godot, and Flutter
-</div>
-</br>
 <h3 align="">What I love 💖</h3>
 <p align="">
   <a href="https://skillicons.dev">
