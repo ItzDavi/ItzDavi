@@ -24,6 +24,11 @@
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/ItzDavi.png" alt="THM badge" />
 </p>
+
+<h3 align="">CTF 🚩</h3>
+<p>
+  <a href="https://scr1ptk1dd13s.xyz/" alt="CTF team website">My CTF Team</a>
+</p>
 <br>
 
 <sub><sup>Writing spaghetti code since 2014 💖</sup></sub>
