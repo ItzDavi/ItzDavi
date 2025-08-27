@@ -22,7 +22,7 @@
 
 <h3 align="">TryHackMe profile 👨🏼‍💻</h3>
 <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzDavi.png" alt="THM badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ItzDavi.png" alt="Your Image Badge" />
 </p>
 
 <h3 align="">CTF 🚩</h3>
